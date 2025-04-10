@@ -1,6 +1,6 @@
 # Raven's dotfiles
 
-![license](https://img.shields.io/github/license/rctrodrigo/dotfiles?style=for-the-badge)
+![license](https://img.shields.io/github/license/rctrodrigo/dotfiles)
 
 > There's no place like `~/`
 
